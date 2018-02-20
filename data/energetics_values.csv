@@ -1,0 +1,11 @@
+Behaviour category,Location,Season,Pre/post-prandial,Metabolic rate ,Equation,,Source,,
+Rest,Land,Winter,,4.13,,ml min kg,"Dassis et al., 2012",~30% less than resting in water,check some other papers
+Rest,Land,Summer,,5.74,,ml min kg,"Dassis et al., 2013",~30% less than resting in water,
+Rest,Water,Winter,,5.9,1.95+0.29x,ml min kg,"Ladds et at., 2016 Con Phys",could include relationship with water temperature,
+Rest,Water,Summer,,8.2,1.95+0.29x,ml min kg,"Ladds et at., 2016 Con Phys",x=water temp,
+Active/Swimming,Diving,Winter,,17.46,12.10+2.37x,ml kg,"Ladds et at., 2016 JEB",x=VeDBA,active transit swimming - shallow dives
+Active/Swimming,Diving,Summer,,17.46,12.10+2.37x,ml kg,"Ladds et at., 2016 JEB",x=VeDBA,active transit swimming - shallow dives
+Grooming/Active ,Land,Winter,,,,,,do we just assume that they are resting when hauled-out?,
+Grooming/Active ,Land,Summer,,,,,,do we just assume that they are resting when hauled-out?,
+Grooming,Water,Winter,,11.8,,ml min kg,"Liwanag et al., 2010",estimated at double resting,
+Grooming,Water,Summer,,16.4,,ml min kg,"Liwanag et al., 2011",estimated at double resting,
